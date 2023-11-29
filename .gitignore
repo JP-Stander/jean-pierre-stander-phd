@@ -1,0 +1,7 @@
+__pycache__/
+.Rproj.user
+project.Rproj
+.Rhistory
+r-reticulate/
+Rplots.pdf
+proposed_method/results/
